@@ -14,3 +14,4 @@ class Bottles
 end
 
 Beer = Bottles.new
+puts "My name is Steve"
